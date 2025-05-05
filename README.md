@@ -2,6 +2,8 @@
 
 Este projeto contém um conjunto de consultas SQL criadas para análise de dados acadêmicos da **Escola Aprendópolis**, utilizando um banco de dados relacional com informações de alunos, notas e disciplinas.
 
+As consultas foram realizadas no SQLite Online.
+
 ## 🗂️ Descrição das Consultas
 
 1. **Média de Notas em História**  
